@@ -1,5 +1,3 @@
-# Video demo (YouTube): https://youtu.be/v7KP_-BDDy4
-
 # binary-to-decimal-convertion-game
 Random binary to correct decimal conversion game:
 Keypad Inputs:
@@ -24,3 +22,5 @@ Changing the game difficulty during a game is allowed with a consequence of losi
 # technicals
 The game is developed using an ATmega 328P microcontroller, an the display is controlled by an Arduino Uno. The only information passed between the two platforms are 
 score information, which is from the ATmega 328P to the Arduino Uno.
+
+# Video demo (YouTube): https://youtu.be/v7KP_-BDDy4
