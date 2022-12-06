@@ -20,7 +20,7 @@ you will be rewarded with the proper score, however, if failed, the round will b
 Changing the game difficulty during a game is allowed with a consequence of losing your chance to gain any points for that round.
 
 # technicals
-The game is developed using an ATmega 328P microcontroller, an the display is controlled by an Arduino Uno. The only information passed between the two platforms are 
+The game is developed using an ATmega 328P microcontroller, and the display is controlled by an Arduino Uno. The only information passed between the two platforms are 
 score information, which is from the ATmega 328P to the Arduino Uno.
 
 # Video demo (YouTube): https://youtu.be/v7KP_-BDDy4
